@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Application**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** & **MACHINE LEARNING**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
