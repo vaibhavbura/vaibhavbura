@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bura</h1>
-<h3 align="center">Web & Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavbura&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbura" /> </p>
-
-- 🔭 I’m currently working on **Frontend Application**
-
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT** & **MACHINE LEARNING**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **vaibhavbura@gmail.com**
 
