@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bura</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhavbura&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbura" />
 </p>
+
+---
 
 <table>
   <tr>
@@ -23,8 +25,11 @@
 </table>
 
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+
+---
+
+<h3 align="center">🛠️ Languages and Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -49,17 +54,24 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbura&show_icons=true&theme=radical" alt="vaibhavbura stats" />
+---
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavbura&show_icons=true&theme=radical" alt="vaibhavbura stats" />
 </p>
 
-<h3 align="left">🏆 Top Languages:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbura&layout=compact&theme=radical" alt="top languages" />
+<h3 align="center">🏆 Top Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbura&layout=compact&theme=radical" alt="top languages" />
 </p>
+
+---
 
 ### 🌐 Connect with Me:
 
@@ -74,3 +86,5 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
