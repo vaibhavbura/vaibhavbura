@@ -12,7 +12,6 @@
       <h3>About Me</h3>
       <ul>
         <li>🎓 Passionate Data Science enthusiast</li>
-        <li>🌐 Exploring Web Development</li>
         <li>💡 Always eager to learn new technologies</li>
         <li>📊 Focused on applying data-driven insights to solve real-world problems</li>
       </ul>
