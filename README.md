@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bura</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4af05c0b-cca2-441b-9347-1035fbcc801d" width="200" alt="Coding Cat" />
+  <img src="https://github.com/user-attachments/assets/4af05c0b-cca2-441b-9347-1035fbcc801d" width="400" alt="Coding Cat" />
 </p>
 
 <p align="center">
